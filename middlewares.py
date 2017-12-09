@@ -1,5 +1,7 @@
-from django.shortcuts import HttpResponse
 import logging
+
+from django.shortcuts import HttpResponse
+
 LOGGER = logging.getLogger('forum')
 
 
